@@ -1,1 +1,3 @@
-# beinventory
+# Smart and Inclusive Inventory Management System with RFID and Sensory Technology
+
+This project focuses on an Inventory Management System designed to enhance operational efficiency and customer experience. It allows customers to track item availability, pricing, and other relevant details through the store's website. The system uses RFID technology, NodeMCU, touch sensors, and sound devices to help visually impaired users locate items, providing tactile and auditory feedback. Additionally, the system maintains an updated inventory database, supports predictive analytics for sales forecasting, and generates monthly expense reports.
